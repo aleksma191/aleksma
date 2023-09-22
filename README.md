@@ -1,2 +1,2 @@
-# aleksma
-project with start JS
+# with-scale
+project with start JS with scale
